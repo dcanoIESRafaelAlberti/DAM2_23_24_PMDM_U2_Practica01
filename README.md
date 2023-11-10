@@ -1,7 +1,6 @@
 # DAM2_23_24_PMDM_U3_Practica01
-Práctica 1 - Saludo y contadores
 
-## Actividad 6
+## Práctica 1 - Saludo y contadores
 
 Mostrar en la pantalla un botón con el texto "Saludar" y un texto vacío debajo de él. Todo centrado.
 
